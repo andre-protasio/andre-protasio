@@ -12,6 +12,7 @@
 <h3 align="center">Minhas Redes:</h3>
 <p align="left">
 <a href="https://twitter.com/protasio_andre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="protasio_andre" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/andreprotasio" target="blank"><img align="center" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/ikqra03zdnggljdu5vv0" alt="andreprotasio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas que estou aprendendo:</h3>
